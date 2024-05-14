@@ -1,0 +1,20 @@
+.root {
+  background-color: #e6e6e6;
+  height: 100vh;
+}
+
+.custom-container {
+  width: 600px;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0;
+}
+
+.income {
+  color: green;
+}
+
+.expense {
+  color: red;
+}
